@@ -1,7 +1,7 @@
 
 <h1 align="center"> YouTube m3u </h1>
 
-[![M3U generator for YouTube](https://github.com/prasanth-snk/youtube_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/prasanth-snk/youtube_m3u/actions/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://github.com/prasanth-snk/jQ8dZwTw8wQ_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/prasanth-snk/youtube_m3u/actions/workflows/m3u_Generator.yml)
 
 ### All Channels
 ``` bash
